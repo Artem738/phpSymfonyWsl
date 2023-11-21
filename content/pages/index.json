@@ -1,0 +1,23 @@
+{
+  "title": {
+    "uk": "Головна сторінка",
+    "ru": "Главная страница",
+    "pl": "Strona główna",
+    "en": "Home Page",
+    "de": "Startseite"
+  },
+  "content": {
+    "uk": "Ласкаво просимо на головну сторінку!",
+    "ru": "Добро пожаловать на главную страницу!",
+    "pl": "Witamy na stronie głównej!",
+    "en": "Welcome to the Home Page!",
+    "de": "Willkommen auf der Startseite!"
+  },
+  "description": {
+    "uk": "Це інформаційна сторінка нашого сайту.",
+    "ru": "Это информационная страница нашего сайта.",
+    "pl": "To informacyjna strona naszego serwisu.",
+    "en": "This is the informational page of our site.",
+    "de": "Dies ist die Informationsseite unserer Website."
+  }
+}

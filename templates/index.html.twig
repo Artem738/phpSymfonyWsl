@@ -1,0 +1,24 @@
+{# templates/about.html.twig #}
+<!DOCTYPE html>
+<html>
+<head>
+    <title> {{ page_title }}</title>
+</head>
+<body>
+
+
+<h2>Назва з файлу сторінок -  {{ page_title }}</h2>
+<h3>{{ language }} </h3>
+
+{% if pageData %}
+    <div>
+        <h1>Titile з json - {{ pageData['title'] }}</h1>
+        <ul>
+            {% for key, value in pageData %}
+                <li>{{ key }}: {{ value }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endif %}
+</body>
+</html>

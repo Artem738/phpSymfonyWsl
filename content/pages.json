@@ -1,0 +1,30 @@
+{
+  "index": {
+    "uk": "Головна",
+    "ru": "Главная",
+    "pl": "Strona główna",
+    "en": "Home",
+    "de": "Startseite"
+  },
+  "about": {
+    "uk": "Про нас",
+    "ru": "О нас",
+    "pl": "O nas",
+    "en": "About Us",
+    "de": "Über uns"
+  },
+  "contacts": {
+    "uk": "Контакти",
+    "ru": "Контакты",
+    "pl": "Kontakt",
+    "en": "Contacts",
+    "de": "Kontakt"
+  },
+  "test": {
+    "uk": "Тест",
+    "ru": "Тест",
+    "pl": "Test",
+    "en": "Test",
+    "de": "Test"
+  }
+}

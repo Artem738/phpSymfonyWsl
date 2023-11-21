@@ -1,0 +1,23 @@
+{
+  "title": {
+    "uk": "Про нас",
+    "ru": "О нас",
+    "pl": "O nas",
+    "en": "About Us",
+    "de": "Über uns"
+  },
+  "content": {
+    "uk": "Тут ви можете дізнатися більше про нас.",
+    "ru": "Здесь вы можете узнать больше о нас.",
+    "pl": "Tutaj możesz dowiedzieć się więcej o nas.",
+    "en": "Here you can learn more about us.",
+    "de": "Hier können Sie mehr über uns erfahren."
+  },
+  "description": {
+    "uk": "Ми команда професіоналів, що працює над цікавими проектами.",
+    "ru": "Мы команда профессионалов, работающих над интересными проектами.",
+    "pl": "Jesteśmy zespołem profesjonalistów pracujących nad interesującymi projektami.",
+    "en": "We are a team of professionals working on interesting projects.",
+    "de": "Wir sind ein Team von Profis, die an interessanten Projekten arbeiten."
+  }
+}

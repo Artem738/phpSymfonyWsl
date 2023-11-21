@@ -1,0 +1,23 @@
+{
+  "title": {
+    "uk": "TEST TEST Про нас",
+    "ru": "TEST О нас",
+    "pl": "TEST O nas",
+    "en": "TEST About Us",
+    "de": "TEST Über uns"
+  },
+  "content": {
+    "uk": "TEST Тут ви можете дізнатися більше про нас.",
+    "ru": "TEST Здесь вы можете узнать больше о нас.",
+    "pl": "TEST Tutaj możesz dowiedzieć się więcej o nas.",
+    "en": "TEST Here you can learn more about us.",
+    "de": "TEST Hier können Sie mehr über uns erfahren."
+  },
+  "description": {
+    "uk": "TEST Ми команда професіоналів, що працює над цікавими проектами.",
+    "ru": "TEST Мы команда профессионалов, работающих над интересными проектами.",
+    "pl": "TEST Jesteśmy zespołem profesjonalistów pracujących nad interesującymi projektami.",
+    "en": "TEST We are a team of professionals working on interesting projects.",
+    "de": "TEST Wir sind ein Team von Profis, die an interessanten Projekten arbeiten."
+  }
+}
